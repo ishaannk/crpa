@@ -24,7 +24,7 @@ This repo: 12.4M params, RTX A6000 48GB, 512 context. Full run under 60 minutes.
 ## Setup
 
 ```bash
-git clone <this-repo> && cd crpa
+git clone https://github.com/ishaannk/crpa.git && cd crpa
 
 python3 -m venv .venv && source .venv/bin/activate
 
