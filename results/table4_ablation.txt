@@ -1,0 +1,8 @@
+
+TABLE 4 — Causal Overlap Ablation
+============================================================
+  Variant                     Overlap    Ret.Acc     PPL
+  ------------------------------------------------
+  No overlap reg.               0.219       8.4% 1081.31
+  Naive overlap reg.            0.251       5.3% 1160.46
+  Causal overlap reg.           0.243      32.8% 1108.03 <-- paper claim

@@ -1,0 +1,9 @@
+TABLE 2 — Main Results
+=================================================================
+  Model                              PPL    Ret.Acc    Overlap
+  -------------------------------------------------------
+  Dense Transformer               705.32      50.9%     0.348
+  Sliding Window                  905.56      51.9%     0.298
+  CRPA no reg.                   1081.31       8.4%     0.219
+  CRPA naive reg.                1160.46       5.3%     0.251
+  CRPA causal reg.               1108.03      32.8%     0.243 <-- best

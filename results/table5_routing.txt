@@ -1,0 +1,7 @@
+TABLE 5 — Routing Diagnostics
+=================================================================
+  Variant              Empty Parts%   Route Ent   Load Err
+  -------------------------------------------------------
+  No balancing                 0.0%       1.386    0.0000
+  Balance only                 0.0%       1.386    0.0000
+  CRPA full                    0.0%       1.386    0.0000 <-- best
